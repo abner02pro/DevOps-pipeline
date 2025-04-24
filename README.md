@@ -5,6 +5,9 @@ Este es un proyecto de ejemplo para demostrar la implementación de un pipeline 
 Implementar un flujo DevOps incluyendo >
 
 Control de versiones (Git + GitHub)
+
 Contenerización con Docker
+
 Ejecucion local del proyecto como contenedor
+
 Aplicacion Web funcional (sin base de datos)
